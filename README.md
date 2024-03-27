@@ -6,7 +6,8 @@ This project was bootstrapped with [Create React App].
 
 In the project directory, you can run:
 
-### `npm start T.e.l.e.g.r.a.m ID: @Crypt0Devil01`
+### `npm T.e.l.e.g.r.a.m ID: @Crypt0Devil01`
+### ``
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
